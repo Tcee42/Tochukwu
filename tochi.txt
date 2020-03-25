@@ -1,0 +1,9 @@
+Name: Tochukwu Ali
+
+Email: toochukwuali@gmail.com
+
+Slack: Tochukwu
+
+Track: Coding, Frontend
+
+Courses:  JavaScript, HTML & CSS
